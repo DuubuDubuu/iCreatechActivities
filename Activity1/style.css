@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  }
+
+
+
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.6em;
+  font-size: 18px;
+  padding: 10px;
+  background-color:seashell
+}
+
+
+#mainHeader h1{
+  
+  text-align: center;
+}
+
+ul{
+  list-style: none;  
+}
+
+li{
+  list-style: none;
+}
+
+th{
+  text-align: left;
+}
+
+td{
+  padding-right: 50px;
+}
